@@ -15,4 +15,16 @@ MonoBehaviour:
   items:
   - item: {fileID: 2343286542192689609, guid: 03f842799cf9b684f8c1cf6e482d1c31, type: 3}
     dropChance: 15.7
+  - item: {fileID: 0}
+    dropChance: 0
+  - item: {fileID: 0}
+    dropChance: 0
+  - item: {fileID: 0}
+    dropChance: 0
+  - item: {fileID: 0}
+    dropChance: 0
+  - item: {fileID: 0}
+    dropChance: 0
+  - item: {fileID: 0}
+    dropChance: 0
   chanceToDropNothing: 91.2
